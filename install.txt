@@ -1,0 +1,1 @@
+npm init -y && npm i express rxjs lit-element && npm i webpack webpack-cli --save
